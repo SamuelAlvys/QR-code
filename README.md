@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Author](#author)
@@ -17,10 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Code URL:[(https://github.com/SamuelAlvys/QR-code)](https://your-solution-url.com)
-- Live Site URL: [(https://samuelalvys.github.io/QR-code/)](https://your-live-site-url.com)
+- Code URL:(https://github.com/SamuelAlvys/QR-code)
+- Live Site URL: (https://samuelalvys.github.io/QR-code/)
 
 ## Author
 
-- Frontend Mentor - [Samuel Alves](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@SamuelAlvys](https://www.frontendmentor.io/profile/SamuelAlvys)
 
